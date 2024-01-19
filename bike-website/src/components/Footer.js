@@ -10,7 +10,7 @@ export const Footer = () => {
           <CDBBox>
             <a href="/" className="d-flex align-items-center p-0 text-white">
               <img alt="logo" src="logo" width="30px" />
-              <span className="ms-3 h5 font-weight-bold">Devwares</span>
+              <span className="ms-3 h5 font-weight-bold">Bike</span>
             </a>
             <p className="my-3" style={{ width: '250px' }}>
               We are creating High Quality Resources and tools to Aid developers during the
@@ -30,7 +30,7 @@ export const Footer = () => {
           </CDBBox>
           <CDBBox>
             <p className="h5 mb-4" style={{ fontWeight: '600' }}>
-              Devwares
+              Bike
             </p>
             <CDBBox flex="column" style={{ cursor: 'pointer', padding: '0' }}>
               <a href="/" style={{ color: 'white' }}>Resources</a><br/>
@@ -60,7 +60,7 @@ export const Footer = () => {
             </CDBBox>
           </CDBBox>
         </CDBBox>
-        <small className="text-center mt-5">&copy; Devwares, 2020. All rights reserved.</small>
+        <small className="text-center mt-5">&copy; Bike, 2020. All rights reserved.</small>
       </CDBBox>
     </CDBBox>
   );
