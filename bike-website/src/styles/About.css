@@ -1,0 +1,32 @@
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-image: url('../Media/Triumph-background.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    height: 100vh; /* Set the height to cover the entire viewport */
+  }
+  
+.about-background {
+    /* You can keep your other styles for the about-background div here if needed */
+ }
+.container{
+    color: white;
+    margin: 5% 0% 0% 10%;
+}
+
+
+.About-us-main-heading{
+    font-size: 250%;
+    font-weight: bold;
+    margin-left: 37%;
+}
+#triumph-bold{
+    font-size: xx-large;
+    color: orange;
+    margin-right: 1%;
+}
+.paragraph-aboutus{
+    font-size: larger;
+}
+  

@@ -1,0 +1,10 @@
+.app {
+  margin: 0;
+  padding: 0;
+}
+
+/* Add the following if you have a header class */
+.header {
+  margin: 0;
+  padding: 0;
+}
