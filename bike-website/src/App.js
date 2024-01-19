@@ -12,13 +12,13 @@ import { Footer } from './components/Footer';
 function App() {
   return (
     <>
-      <div style={{marginBottom:"-4%"}} ><Header/></div>
+      <div style={{marginBottom:"-4%"}}><Header/></div>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/testride" element={<Testride/>} />
-        <Route path="/booknw" element={<Booknow/>} />
+        <Route path="/" element={<Home/>}/>
+        <Route path="/about" element={<About />}/>
+        <Route path="/contact" element={<Contact />}/>
+        <Route path="/testride" element={<Testride/>}/>
+        <Route path="/booknw" element={<Booknow/>}/>
       </Routes>
       <Footer/>
     </>
